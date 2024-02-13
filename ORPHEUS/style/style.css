@@ -1,0 +1,15 @@
+body{
+    background-color: #0A0D11;
+}
+.box{
+    background: linear-gradient(80deg, rgba(255, 217, 0, 0.336), yellow, rgba(255, 217, 0, 0.336));
+}
+.box:hover{
+    background: linear-gradient(80deg, rgba(255, 255, 255, 0.445), gold, rgba(255, 255, 255, 0.445));
+}
+.button{
+    background: linear-gradient(80deg, rgba(255, 217, 0, 0.336), yellow, rgba(255, 217, 0, 0.336));
+}
+.button:hover{
+    background: linear-gradient(80deg, rgba(255, 255, 255, 0.445), gold, rgba(255, 255, 255, 0.445));
+}
